@@ -3,3 +3,4 @@ config/
 *.sublime-workspace
 *.log
 deploy/
+.DS_Store
