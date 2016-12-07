@@ -12,6 +12,6 @@ Components
  2. **[PDF Viewer](https://github.com/kumarrk21/PDFViewer)** - Here is a component to view any PDF content using the PDF.JS library.
  3. **[Qoute PDF](https://github.com/kumarrk21/S1QuotePDF)** - Use this package to enable your users to generate PDFs for quotes on the go, using Salesforce1.
  4. **[Lookup](https://github.com/kumarrk21/LookupComponent)** - Use this component for single and multi-select lookup fields with customized filtering capabilities
- 5. **MobilePageLayout** - Is your record detail page too busy to display on a mobile device? Use this component as a work around for mobile specific page layouts
+ 5. **[Event Invites](https://github.com/kumarrk21/S1EventsInvite)** - Use this component for adding invitees to events in Salesforce1
 
 
