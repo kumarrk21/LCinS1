@@ -14,5 +14,8 @@ Components
  4. **[Qoute PDF](https://github.com/kumarrk21/S1QuotePDF)** - Use this package to enable your users to generate PDFs for quotes on the go, using Salesforce1.
  5. **[Lookup](https://github.com/kumarrk21/LookupComponent)** - Use this component for single and multi-select lookup fields with customized filtering capabilities
  6. **[Event Invites](https://github.com/kumarrk21/S1EventsInvite)** - Use this component for adding invitees to events in Salesforce1
+ 7. **[Barcode Scanner](https://github.com/kumarrk21/BarcodeScanner)** - Use this component to quickly scan a barcode using the QuaggaJS library
+
+ 
 
 
