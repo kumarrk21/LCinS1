@@ -15,6 +15,7 @@ Components
  5. **[Lookup](https://github.com/kumarrk21/LookupComponent)** - Use this component for single and multi-select lookup fields with customized filtering capabilities
  6. **[Event Invites](https://github.com/kumarrk21/S1EventsInvite)** - Use this component for adding invitees to events in Salesforce1
  7. **[Barcode Scanner](https://github.com/kumarrk21/BarcodeScanner)** - Use this component to quickly scan a barcode using the QuaggaJS library
+ 8. **[Apple Wallet Generator](https://github.com/kumarrk21/Apple-Wallet-Lightning-Comp)** - Lightning component and supporting Apex classes to generate passbook for Apple Wallet
 
  
 
